@@ -1,4 +1,19 @@
 # ThoughtsFlow
+###### 29 Sept 2014
+It's monday and I spent the day working on the development plan for our brand new application here at Snaphealth.
+
+I also passed a couple of hours watching/learning how a real graphic engine works. Watching the simplicity and at the same time the complexity of SpriteKit was a pleasure. I am now discovering a really good start point where to begin building ios games in 2d.
+
+The evening is another match! Salvatore, my engineer friend, and I came together with some great ideas about levels in Magnetiq. We thought first to have a look at our solution of graphic engine and I think we'll be reviewing it a bit because of some illogical results we ended up during development. But I am trustful that we'll solve them easily.
+
+What strikes us now are levels. We came up with 7 levels which are one more incredible than the previous. That's a great (in some way simple) start for Magnetiq which will be on the Play Store probably in 2 and a 1/2 weeks.
+
+We're working really hard on the story of our main character as we believe it'll make a big impact on the game. We'll make it gain abilities and new powers and increase the awareness of the player that the universe is much much bigger than that little screen.
+
+Our main concerns are basically related to the user interaction with the game and the development of some special features that are not present in the version we already built.
+
+We'll begin soon breaking the laws of the physics and playing with mathematical functions which I will describe here further on!
+
 ###### 28 Sept 2014
 These days I'm working on Magnetiq a simple html canvas game similar to Sinuous but better :)
 
