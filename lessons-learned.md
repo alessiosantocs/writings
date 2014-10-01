@@ -1,4 +1,4 @@
-# Lessons learnd
+# Lessons learned
 Is a group of lessons I have learned during my life as an engineer (and not only).
 
 ###### Design/build a stack when building a complex application
