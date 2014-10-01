@@ -1,4 +1,14 @@
 # ThoughtsFlow
+###### 1 Oct 2014
+Yesterday I was pretty busy building the level 0 of our nice game. The behind the scenes included a lot of work of automation and animation. Yes because our little P must float around the screen gently and almost as if he really wanted to.
+
+That's why I needed to improve the base Animation class with some logics to better handle both complex and simple animations and extend it creating another animation class called MoveToAnimation. This nice prototype will take the point that has to be moved and the point[s] it needs to move to!
+
+By default it accepts a track of points. The animation will be stopped only when all points have been reached and passed and it can be restarted automatically if the user specifies a tiny boolean that specifies so.
+
+I am quite satisfied about the animation system. It's easy to use as a developer, it's built upon inheritance and it has strong scaling possibilities. Probably it's not the most powerful animation engine I've every seen, but I am sure that after this it will indeed contain a lot of core functionalities that will allow creating complex animations in a blink of an eye (or in a few lines of code :D).
+
+Another interesting fact is, while working on the level 0 I started better understanding the story of our main character and - why not? - of our stars and universe. I started giving more attention to these details in the game because the end user will expect these to be as senseful as possible. We need to give our character a life to live in and the graphic representation of it will come out by itself.
 ###### 29 Sept 2014
 It's monday and I spent the day working on the development plan for our brand new application here at Snaphealth.
 
