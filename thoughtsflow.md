@@ -1,4 +1,15 @@
 # ThoughtsFlow
+###### 4 Oct 2014
+As expected I am not able to write just everyday. I'll try to do my best anyway.
+
+Yesterday was hacking night and we've focused on building levels for Magnetiq. We decided to build levels as soon as possible and then adjust them to make them fit into the main story.
+
+The interesting things that happened last night was that we faced a serious UX problem we're still trying to solve. The thing is about gameplay and controls. We thought that a combo of touch tracking (for character movement) and acceleration to move into space would've been the best choice. Instead we found out that moving your finger around the screen is a painful way of moving things around. We're testing different inputs and combination and we're constantly thinking about how to improve the game's UX more.
+
+Another challenge we're facing these days is the levels' difficulty problem. We need to find a standard measure to understand wether a level is too difficult/easy and find a way to insert training levels for inputs and commands we're introducing that someone may not be confortable with.
+
+Things are getting very clear day after day and I think we're getting very close to release date.
+
 ###### 1 Oct 2014
 Yesterday I was pretty busy building the level 0 of our nice game. The behind the scenes included a lot of work of automation and animation. Yes because our little P must float around the screen gently and almost as if he really wanted to.
 
