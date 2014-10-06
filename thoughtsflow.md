@@ -3,7 +3,11 @@
 Yesterday's topic was basically financing and seed fund raising. I played with a tool to simulate equity distribution in a startup that is going through several rounds of investment. The key point there is that every round is linked to the next and with every round your share of the pie gets smaller (in percentage of course) because when money gets in there's dilution.
 
 I also attended to a skype call with an experienced entrepreneur/vc from which I understood a good number of concepts:
-1. Choose co-founders carefully when starting a business:
+1. Choose co-founders carefully when starting a business. Something that founders always do is get a co-founder quickly and possibly they think making someone a co-founder makes that person highly motivated. Don't do that! Co-founders are people you are going to have discussions with, they will have a say for the future of your company. Just be careful when chosing a co-founder (because probably you need one).
+2. Founders tend to be extremely generous about giving a piece of the company to people just to get them motivated and do their best at their job. This is great, just don't do it too much. Shares are an important heritage in the long journey of a startup and you're probably not thinking about this now but the right thing to do is to raise a bar and give everyone who's worth a part of that bar (once a bar is set is fairly easy to give people what they deserve based on their motivation and commitment)
+3. The most important thing is commitment. Do you want to hire some super star because of their past and quallity of their job? Don't do it. People are what drive business to success/failure. So not only try to hire people only when you really need them but also after a careful analysis. Before hiring you should at least give yourself an idea of the kind of values you're looking for in an employee. You write them down and use them to choose candidate to test. 
+
+Yesterday was a good day. Today's monday and I'm gonna start working in half an hour.
 
 ###### 4 Oct 2014
 As expected I am not able to write just everyday. I'll try to do my best anyway.
