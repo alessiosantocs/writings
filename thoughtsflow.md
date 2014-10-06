@@ -1,4 +1,10 @@
 # ThoughtsFlow
+###### 6 Oct 2014
+Yesterday's topic was basically financing and seed fund raising. I played with a tool to simulate equity distribution in a startup that is going through several rounds of investment. The key point there is that every round is linked to the next and with every round your share of the pie gets smaller (in percentage of course) because when money gets in there's dilution.
+
+I also attended to a skype call with an experienced entrepreneur/vc from which I understood a good number of concepts:
+1. Choose co-founders carefully when starting a business:
+
 ###### 4 Oct 2014
 As expected I am not able to write just everyday. I'll try to do my best anyway.
 
