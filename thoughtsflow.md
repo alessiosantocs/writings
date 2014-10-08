@@ -1,4 +1,19 @@
 # ThoughtsFlow
+###### 8 Oct 2014
+I discovered something this week. It's something about myself and something about a methodology to learn to be more disciplined. 
+
+It started out as an experiment that came to my mind last sunday. I thought that in this particular moment I should try to focus more on what really matters and leave the rest for when I would have nothing to do.
+So I gave myself a few key rules:
+1. On workdays you have no time for side projects. You have to deny yourself to write even a line of code of a side project.
+2. During the weekend and on friday night perhaps you shall do everything you want and almost forget about your actual job.
+3. Wake up early and take care of myself with little excercises and meditation and writing. Something that is not projects/work related. Just writing for example as I am doing right now.
+
+These simple rules are now showing their true power. I actually fear more productive at work; at least + 60%. My mind does not blow up even if there are a lot of things to do as I know what to focus on every time.
+I feel also I can ease more naturally into my actual life after work. Even if it's still hard to forget about our startup when eating dinner I feel something is finally working.
+I feel more refreshed even when I came back home at 9pm for example. Which is great because it means a lot of energy is still there.
+
+This is quite a good time for my body I think, perhaps also for my mind which is now clearer and less confused than usual.
+
 ###### 6 Oct 2014
 Yesterday's topic was basically financing and seed fund raising. I played with a tool to simulate equity distribution in a startup that is going through several rounds of investment. The key point there is that every round is linked to the next and with every round your share of the pie gets smaller (in percentage of course) because when money gets in there's dilution.
 
